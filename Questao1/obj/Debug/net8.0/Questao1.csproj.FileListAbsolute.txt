@@ -1,0 +1,14 @@
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\bin\Debug\net8.0\Questao1.exe
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\bin\Debug\net8.0\Questao1.deps.json
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\bin\Debug\net8.0\Questao1.runtimeconfig.json
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\bin\Debug\net8.0\Questao1.dll
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\bin\Debug\net8.0\Questao1.pdb
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.AssemblyInfo.cs
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.dll
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\refint\Questao1.dll
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.pdb
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\Questao1.genruntimeconfig.cache
+C:\Users\joaog\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API (3) 1 (2) 1\Questao1\obj\Debug\net8.0\ref\Questao1.dll
